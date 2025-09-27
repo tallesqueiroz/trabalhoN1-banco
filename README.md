@@ -7,4 +7,4 @@ Esse repositório contém:
 - SELECTs para consulta
 - UPDATEs para atualização
 
-Juntamente aos códigos, existem imagens evidenciando o funcionamento dos scripts.
+Juntamente dos códigos, existem imagens evidenciando o funcionamento dos scripts.
